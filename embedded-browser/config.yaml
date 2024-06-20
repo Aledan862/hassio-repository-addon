@@ -1,13 +1,15 @@
 ---
-name: Firefox embedded browser
-version: 0.0.2
+name: "Surf embedded browser"
+version: "0.0.2"
 slug: embdbrowser
-description: Firefox embedded browser
-url: https://github.com/bigmoby/addon-embedded-browser/tree/main/embedded_browser
+description: "Surf embedded browser"
+url: https://github.com/Aledan862/addon-embedded-browser/tree/main/embedded_browser
 arch:
   - amd64
   - armhf
   - aarch64
+  - armv7
+  - i386
 apparmor: false
 host_network: false
 stage: experimental
