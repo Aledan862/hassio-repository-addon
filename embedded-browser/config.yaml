@@ -1,6 +1,6 @@
 ---
 name: Firefox embedded browser
-version: 0.0.1
+version: 0.0.2
 slug: embdbrowser
 description: Firefox embedded browser
 url: https://github.com/bigmoby/addon-embedded-browser/tree/main/embedded_browser
